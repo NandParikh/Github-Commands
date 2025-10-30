@@ -185,7 +185,3 @@ git config --global credential.helper store
 Now your credentials will be remembered for future pushes.
 
 ---
-
-**Author:** _Git & Xcode Guide by Tech Docs_  
-**Version:** 1.0  
-**License:** MIT  
